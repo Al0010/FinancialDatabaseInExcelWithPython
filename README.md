@@ -2,27 +2,27 @@
 
 Create an ordered database of financial data on Excel using Pandas.
 
-Tramite questo script:
+Through this script:
 
-1) Scarica dati da Yahoo Finance 
-2) Crea un dataframe tramite Pandas 
-3) Estrapola dati specifici dal dataframe
-4) Crea un database di dati finanziari su Excel 
+1) Download data from Yahoo Finance 
+2) Create a dataframe using Pandas 
+3) Extracts specific data from the dataframe
+4) Create a database of financial data in Excel 
 
-Questo semplice script permette di scaricare dati da Yahoo Finance. Una volta creato il dataframe contenente i dati, l' utente sarà in grado di estrapolare quelli di suo interesse. Evidenziati i dati di interesse, l' utente procederà a costruire un database su Excel.
+This simple script allows you to download data from Yahoo Finance. Once the dataframe containing the data has been created, the user will be able to extract the data of interest. Once the data of interest has been highlighted, the user will proceed to build a database in Excel.
 
-Questo script aiuta l' operatore nel semplificare e velocizzare la creazione di database in Excel. 
+This script helps the operator to simplify and speed up the creation of databases in Excel. 
 
-Versione: Python V 3.10.2
+Version: Python V 3.10.2
 
-# Come lanciare questo script 
-- Importa librerie 
-- Imposta lo script 
-- Run 
+# How to run this script 
+1) Import libraries 
+2) Set the script 
+3) Run 
 
-Puoi copiare e incollare il codice all' interno del tuo Virtual Studio Code per testare lo script con le impostazioni predefinite nell' esempio.
+You can copy and paste the code into your Virtual Studio Code to test the script with the default settings in the example.
 
-# Librerie da importare 
-1) import pandas as pd
-2) import pandas_datareader.data as web
-3) import datetime as dt
+# Libraries to import 
+- import pandas as pd
+- import pandas_datareader.data as web
+- import datetime as dt
