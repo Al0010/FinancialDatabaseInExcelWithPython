@@ -13,6 +13,9 @@ This simple script allows you to download data from Yahoo Finance. Once the data
 
 This script helps the operator to simplify and speed up the creation of databases in Excel. 
 
+In this example, an Excel database of opening and closing data is created with an analysis time period from 1/1/2021 to 10/3/2022. 
+The assets under analysis in this example are: Nasdaq, Facebook, Netflix, Amazon, Google, Tesla, Nvidia, Nikola and Ferrari.
+
 Version: Python V 3.10.2
 
 # How to run this script 
