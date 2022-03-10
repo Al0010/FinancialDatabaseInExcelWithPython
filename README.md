@@ -23,9 +23,9 @@ Version: Python V 3.10.2
 You can copy and paste the code into your Virtual Studio Code to test the script with the default settings in the example. Be careful when entering your directory for writing the excel file. An example of directory is: price.to_excel(excel_writer = r'/Users/utente/Desktop/Test.xlsx')
 
 # Install Libraries
-pip3 install pandas 
-pip3 install datareader 
-pip3 install yahoo-finance
+- pip3 install pandas 
+- pip3 install datareader 
+- pip3 install yahoo-finance
 
 # Libraries to import 
 - import pandas as pd
