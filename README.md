@@ -16,13 +16,13 @@ Questo script aiuta l' operatore nel semplificare e velocizzare la creazione di 
 Versione: Python V 3.10.2
 
 # Come lanciare questo script 
-A) Importa librerie 
-B) Imposta lo script 
-C) Run 
+- Importa librerie 
+- Imposta lo script 
+- Run 
 
 Puoi copiare e incollare il codice all' interno del tuo Virtual Studio Code per testare lo script con le impostazioni predefinite nell' esempio.
 
 # Librerie da importare 
-import pandas as pd
-import pandas_datareader.data as web
-import datetime as dt
+1) import pandas as pd
+2) import pandas_datareader.data as web
+3) import datetime as dt
