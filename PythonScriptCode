@@ -75,7 +75,8 @@ price = pd.DataFrame({
     'FerrariClose':close_ferrari,
 })
 
-# Create Excel sheet 
+# Create Excel sheet
+# YOUR DIRECTORY EXAMPLE: /Users/utente/Desktop/Test.xlsx
 price.to_excel(excel_writer = r'YOUR_DIRECTORY')
 
 # Print data on the shell 
